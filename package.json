@@ -1,0 +1,6 @@
+{
+    "main": "./alsong.js",
+    "author": "archethic",
+    "name": "alsong-encrypt",
+    "description": "alsong encrypt module for RhinoJS"
+}
